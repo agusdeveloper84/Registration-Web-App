@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OHTgJQqLQ7yAvD9PZeBBb4tAPfueB2b0I3j7chnpTD2OE3YgMykcXatH2NnQRagiv3KGnQKX2+gwYIBBbwKPuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flia Rossi\\Desktop\\COLLEGE - AGUS\\c#\\registrationWebApp\\registrationWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flia Rossi\\.nuget\\packages\\dbup-add-migration\\1.3.0\\dbup-add-migration.1.3.0.nupkg.sha512",
+    "C:\\Users\\Flia Rossi\\.nuget\\packages\\microsoft.data.edm\\5.8.5\\microsoft.data.edm.5.8.5.nupkg.sha512",
+    "C:\\Users\\Flia Rossi\\.nuget\\packages\\microsoft.data.odata\\5.8.5\\microsoft.data.odata.5.8.5.nupkg.sha512",
+    "C:\\Users\\Flia Rossi\\.nuget\\packages\\system.spatial\\5.8.5\\system.spatial.5.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}
